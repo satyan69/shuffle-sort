@@ -1,1 +1,1 @@
-# shuffle-sort
+shuffle and sort coding exercise
