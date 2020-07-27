@@ -28,7 +28,8 @@ window.onload = () => {
             .forEach(node => list.appendChild(node))
     }
     /*==========  End  ==========*/
-
+    /*==========  shuffle button onclck  ==========*/
     document.getElementById("shuffleNode").onclick = shuffleNodes;
+    /*==========  sort button onclck  ==========*/
     document.getElementById("sortNode").onclick = sortNode;
 }
